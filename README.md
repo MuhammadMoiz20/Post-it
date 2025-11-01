@@ -1,4 +1,4 @@
-# PostIt - X/Twitter Clone
+# PostIt
 
 A full-stack social media platform built with the MERN stack, designed for Pakistani audiences.
 
